@@ -1,0 +1,9 @@
+.dice-playground {
+  display: fixed;
+  position: relative;
+  border: red solid 2px;
+  margin: auto;
+  margin-top: 50px;
+  width: 70%;
+  height: 70%;
+}
